@@ -1,0 +1,12 @@
+{
+  "name": "signup-playwright-automation",
+  "version": "1.0.0",
+  "description": "Sign-up Page UI and Validation Automation with Playwright",
+  "scripts": {
+    "test": "playwright test",
+    "live-ui": "node live_ui_test.js"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
